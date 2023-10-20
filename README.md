@@ -20,7 +20,7 @@
 
 ##### 有哪些地方可以参考
 
-- 有 Python 函数不知道 -> [Python中文文档]([3.12.0 Documentation (python.org)](https://docs.python.org/zh-cn/3/))
+- 有 Python 函数不知道 -> [Python中文文档](https://docs.python.org/zh-cn/3/)
 
 - Numpy 不会用 -> [NumPy user guide — NumPy v1.26 Manual](https://numpy.org/doc/stable/user/index.html#user)
 - Pandas 不会用 -> [User Guide — pandas 2.1.1 documentation (pydata.org)](https://pandas.pydata.org/docs/user_guide/index.html)
